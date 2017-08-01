@@ -23,8 +23,8 @@
     "electron": "~1.6.2"
   },
   "build": {
-    "appId": "com.leon.electron-quick-start",
-    "copyright": "LEON",
+    "appId": "com.gao.electron-quick-start",
+    "copyright": "Gao",
     "productName": "electron-quick-start",
     "dmg": {
       "window": {
